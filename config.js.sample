@@ -1,0 +1,9 @@
+export default {
+  port: 8000,
+  releases: {
+    link: "RELEASES_REFERENCE"
+  },
+  deployment_procedures: {
+    link: "DEP_PROCEDURES_REFERENCE"
+  }
+}
